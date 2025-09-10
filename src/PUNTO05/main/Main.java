@@ -1,4 +1,4 @@
-package PUNTO05.model.main;
+package PUNTO05.main;
 
 import java.time.LocalDate;
 // Importamos la clase Persona que está en otro paquete
